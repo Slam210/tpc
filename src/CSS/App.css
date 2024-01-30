@@ -1,17 +1,3 @@
-* {
-    box-sizing: border-box;
-  }
-  
-  body {
-    margin: 0;
-    background-color: white;
-    font-family:'Times New Roman, Calibri, Helvetica';
-  }
-  
-  .container {
-    margin: 1rem;
-    text-align: center;
-    position: fixed;
-    left:55%; /* Adjust this value as needed */
-  }
-  
+body {
+    background: lightgray;
+}

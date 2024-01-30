@@ -10,7 +10,7 @@ export default function NavBar() {
       <h1>TPC Chico</h1>
       <h2>Technical Projects Club</h2>
       <ul>
-        <CustomLink to="/HomePage">HomePage</CustomLink>
+        <CustomLink to="/HomePage">Home</CustomLink>
         <CustomLink to="/About">About</CustomLink>
         <CustomLink to="/Projects">Projects</CustomLink>
         <CustomLink to="/Contact">Contact Us</CustomLink>

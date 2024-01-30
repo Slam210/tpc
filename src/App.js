@@ -6,6 +6,7 @@ import Projects from './Pages/Projects'
 import HomePage from './Pages/HomePage'
 import Events from './Pages/Events'
 import {Route, Routes} from "react-router-dom"
+import './CSS/App.css'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <NavBar />
         <div className = "container">
           <Routes>
+            <Route path="/" element={<HomePage />}/>
             <Route path="/HomePage" element={<HomePage />}/>
             <Route path="/About" element={<About />}/>
             <Route path="/Events" element={<Events />}/>
