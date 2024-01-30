@@ -5,9 +5,6 @@
   flex-direction: column; /* Change to column for vertical layout */
   justify-content: center; 
   align-items: center; /* Align items to the start (left) */
-  gap: 2rem;
-  padding: 1rem 0; /* Adjust padding */
-  transition: left 0.3s ease; /* Change 'top' to 'left' for the transition */
   position: fixed; /* Keep the navigation bar fixed */
   left: 0; /* Position the navigation bar on the left side */
   top: 0;
@@ -43,4 +40,14 @@
 
 .navBar li:hover {
   color: white;
+}
+
+.cta-button {
+  background-color: #7289DA;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: bold;
+  margin-left: 75px;
+  margin-right: 50px;
+  margin-top: 35px;
 }
