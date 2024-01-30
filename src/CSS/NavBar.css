@@ -1,0 +1,46 @@
+.navBar {
+  background: black;
+  color: white;
+  display: flex;
+  flex-direction: column; /* Change to column for vertical layout */
+  justify-content: center; 
+  align-items: center; /* Align items to the start (left) */
+  gap: 2rem;
+  padding: 1rem 0; /* Adjust padding */
+  transition: left 0.3s ease; /* Change 'top' to 'left' for the transition */
+  position: fixed; /* Keep the navigation bar fixed */
+  left: 0; /* Position the navigation bar on the left side */
+  top: 0;
+  height: 100%; /* Occupy the full height of the screen */
+  width: 25%; /* Set a fixed width or adjust as needed */
+}
+
+.navBar ul {
+  color: grey;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column; /* Change to column for vertical layout */
+  gap: 2rem;
+  font-size: 150%;
+}
+
+.navBar a {
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}
+
+.navBar li.active {
+  background-color: lightgray;
+  border-radius: 10%;
+  transition: background-color 1s ease;
+  color: black;
+}
+
+.navBar li:hover {
+  color: white;
+}
