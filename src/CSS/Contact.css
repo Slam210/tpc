@@ -1,0 +1,33 @@
+.contactBody {
+    position: fixed;
+    left: 37%;
+    right: 1%;
+    overflow-y: auto;
+    height: 100%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+  }
+  
+  .contactContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px 30px; /* Increase the space between columns */
+  }
+  
+  .contactCard {
+    flex: 0 0 calc(33.3333% - 20px); /* Adjust the card width */
+    padding: 2%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .contactCard h2 {
+    font-size: x-large;
+  }
+  
+  .contactCard p {
+    font-size: large;
+  }
+  

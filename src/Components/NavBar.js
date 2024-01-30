@@ -12,9 +12,9 @@ export default function NavBar() {
       <ul>
         <CustomLink to="/HomePage">Home</CustomLink>
         <CustomLink to="/About">About</CustomLink>
+        <CustomLink to="/Events">Events</CustomLink>
         <CustomLink to="/Projects">Projects</CustomLink>
         <CustomLink to="/Contact">Contact Us</CustomLink>
-        <CustomLink to="/Events">Events</CustomLink>
       </ul>
       <a href="https://discord.gg/gZb7q8S7JY" target='_blank' rel="noopener noreferrer" class="cta-button">Join Our Discord</a>
     </nav>

@@ -1,0 +1,17 @@
+.aboutBody {
+    position: fixed;
+    left: 26%;
+    right: 1%;
+    overflow-y: auto;
+    height: 100%;
+}
+
+.aboutTitle {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.aboutDescription {
+    font-size: x-large;
+    text-align: left;
+}
