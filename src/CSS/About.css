@@ -9,9 +9,11 @@
 .aboutTitle {
     font-size: xx-large;
     text-align: center;
+    font-weight: 300;
 }
 
 .aboutDescription {
-    font-size: x-large;
+    font-size: large;
     text-align: left;
+    font-weight: 200;
 }

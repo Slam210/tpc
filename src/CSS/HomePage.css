@@ -9,8 +9,10 @@
 
 .homePageTitle {
     font-size: xx-large; 
+    font-weight: 300;
 }
 
 .homePageDescription {
-    font-size: x-large; 
+    font-size: large; 
+    font-weight: 200;
 }
