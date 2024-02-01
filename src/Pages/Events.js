@@ -28,8 +28,10 @@ function Events() {
 
     return (
         <div className="EventBody">
-            <br></br>
             <Calendar
+                locale
+                defaultView="month"
+                calendarType="gregory"
                 onChange={onChange}
                 value={value}
                 className="Calendar"
