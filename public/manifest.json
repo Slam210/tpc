@@ -8,11 +8,6 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/Icons/ClubLogo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
       "src": "/Icons/ClubLogo512.png",
       "type": "image/png",
       "sizes": "512x512"
