@@ -2,6 +2,7 @@ import AdamCellular3d from "../Images/AdamCellular3d.png"
 import NumanScheduleHelper from "../Images/NumanScheduleHelper.png"
 import AdamRaylib from  "../Images/AdamRaylib.png"
 import AdamGameofLife from "../Images/AdamGameofLife.png"
+import AlexSnailMazeSharp from "../Images/AlexSnailMazeSharp.png"
 
 const projectsData = [
     {
@@ -24,6 +25,13 @@ const projectsData = [
       githubLink: "https://github.com/AdamUllmann/Raylib-Synthesizer",
       description: "A digital synthesizer application for personal use. The program features 6-voice polyphony with 5 different waveform oscillator types: Sine, Saw, Square, Triangle, and Noise. The program also features low-pass and high-pass filters with cutoff and resonance controls. Other additions include tuning functionality, note-to-frequency mapping for keyboard input, and a built-in oscilloscope. All of this was implemented exclusively using the tools of raw Digital Signal Processing and Raylib.",
       image: AdamRaylib,
+    },
+    {
+      name: "Alexander Haga",
+      title: "SnailMazeSharp",
+      githubLink: "https://github.com/infinimineralex/SnailMazeSharp",
+      description: `This is a 3D variant of the old SEGA BIOS game "SnailMaze. This version uses Raylib to create the world and game. While it is a work-in-progress, features that have been added include a minimap, multiple enemies with rudimentary AI, and a horror-inspired redesign. Further iterations will add better pathfinding, a robust level system, and a story.`,
+      image: AlexSnailMazeSharp,
     },
     {
       name: "Adam Ullmann",
