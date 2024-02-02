@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tpc/static/css/main.f1061987.css",
-    "main.js": "/tpc/static/js/main.3d74db5a.js",
+    "main.js": "/tpc/static/js/main.8689b1ba.js",
     "static/js/787.ae7fe3bb.chunk.js": "/tpc/static/js/787.ae7fe3bb.chunk.js",
     "static/media/AdamGameofLife.png": "/tpc/static/media/AdamGameofLife.16ea0bb391eba2940dfc.png",
     "static/media/NumanScheduleHelper.png": "/tpc/static/media/NumanScheduleHelper.8e6ed654fb6cf6d45f3d.png",
@@ -11,11 +11,11 @@
     "static/media/ClubLogo.png": "/tpc/static/media/ClubLogo.03f3afa3517212f4b8bd.png",
     "index.html": "/tpc/index.html",
     "main.f1061987.css.map": "/tpc/static/css/main.f1061987.css.map",
-    "main.3d74db5a.js.map": "/tpc/static/js/main.3d74db5a.js.map",
+    "main.8689b1ba.js.map": "/tpc/static/js/main.8689b1ba.js.map",
     "787.ae7fe3bb.chunk.js.map": "/tpc/static/js/787.ae7fe3bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1061987.css",
-    "static/js/main.3d74db5a.js"
+    "static/js/main.8689b1ba.js"
   ]
 }
