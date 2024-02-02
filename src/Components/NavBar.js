@@ -16,7 +16,7 @@ export default function NavBar() {
         <CustomLink to="/Projects">Projects</CustomLink>
         <CustomLink to="/Contact">Contact Us</CustomLink>
       </ul>
-      <a href="https://discord.gg/gZb7q8S7JY" target='_blank' rel="noopener noreferrer" class="cta-button">Join Our Discord</a>
+      <a href="https://discord.gg/gZb7q8S7JY" target='_blank' rel="noopener noreferrer" className="cta-button">Join Our Discord</a>
     </nav>
   );
 }
