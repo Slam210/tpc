@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/HomePage/static/css/main.f1061987.css",
-    "main.js": "/HomePage/static/js/main.5242d1b2.js",
-    "static/js/787.ae7fe3bb.chunk.js": "/HomePage/static/js/787.ae7fe3bb.chunk.js",
-    "static/media/AdamGameofLife.png": "/HomePage/static/media/AdamGameofLife.16ea0bb391eba2940dfc.png",
-    "static/media/NumanScheduleHelper.png": "/HomePage/static/media/NumanScheduleHelper.8e6ed654fb6cf6d45f3d.png",
-    "static/media/AdamCellular3d.png": "/HomePage/static/media/AdamCellular3d.8fee49dca637fe1f5838.png",
-    "static/media/AlexSnailMazeSharp.png": "/HomePage/static/media/AlexSnailMazeSharp.049988f8386ad685dccb.png",
-    "static/media/AdamRaylib.png": "/HomePage/static/media/AdamRaylib.5db81fc5bde7f1791ce7.png",
-    "static/media/ClubLogo.png": "/HomePage/static/media/ClubLogo.03f3afa3517212f4b8bd.png",
-    "index.html": "/HomePage/index.html",
-    "main.f1061987.css.map": "/HomePage/static/css/main.f1061987.css.map",
-    "main.5242d1b2.js.map": "/HomePage/static/js/main.5242d1b2.js.map",
-    "787.ae7fe3bb.chunk.js.map": "/HomePage/static/js/787.ae7fe3bb.chunk.js.map"
+    "main.css": "/tpc/static/css/main.f1061987.css",
+    "main.js": "/tpc/static/js/main.dcc2b6a3.js",
+    "static/js/787.ae7fe3bb.chunk.js": "/tpc/static/js/787.ae7fe3bb.chunk.js",
+    "static/media/AdamGameofLife.png": "/tpc/static/media/AdamGameofLife.16ea0bb391eba2940dfc.png",
+    "static/media/NumanScheduleHelper.png": "/tpc/static/media/NumanScheduleHelper.8e6ed654fb6cf6d45f3d.png",
+    "static/media/AdamCellular3d.png": "/tpc/static/media/AdamCellular3d.8fee49dca637fe1f5838.png",
+    "static/media/AlexSnailMazeSharp.png": "/tpc/static/media/AlexSnailMazeSharp.049988f8386ad685dccb.png",
+    "static/media/AdamRaylib.png": "/tpc/static/media/AdamRaylib.5db81fc5bde7f1791ce7.png",
+    "static/media/ClubLogo.png": "/tpc/static/media/ClubLogo.03f3afa3517212f4b8bd.png",
+    "index.html": "/tpc/index.html",
+    "main.f1061987.css.map": "/tpc/static/css/main.f1061987.css.map",
+    "main.dcc2b6a3.js.map": "/tpc/static/js/main.dcc2b6a3.js.map",
+    "787.ae7fe3bb.chunk.js.map": "/tpc/static/js/787.ae7fe3bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1061987.css",
-    "static/js/main.5242d1b2.js"
+    "static/js/main.dcc2b6a3.js"
   ]
 }
